@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliveGUY/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliveGUY/testing/issues"
+  },
+  "homepage": "https://github.com/aliveGUY/testing#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
